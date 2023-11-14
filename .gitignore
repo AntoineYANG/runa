@@ -1,5 +1,5 @@
 # Dependencies
-/node_modules
+node_modules
 
 # Yarn files
 .yarn/*
@@ -7,3 +7,9 @@
 !.yarn/plugins
 !.yarn/sdks
 yarn-error.log
+
+# Secrete files
+.env
+
+# Production build
+build
