@@ -1,0 +1,9 @@
+# Dependencies
+/node_modules
+
+# Yarn files
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+yarn-error.log

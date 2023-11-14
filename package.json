@@ -1,0 +1,10 @@
+{
+  "name": "runa",
+  "private": true,
+  "version": "0.1.0",
+  "workspaces": [
+    "llm/*"
+  ],
+  "author": "kyusho <kyushoy@proton.me>",
+  "license": "MIT"
+}
